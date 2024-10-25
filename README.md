@@ -5,3 +5,4 @@ If you have any questions, send an email to matti.luukkainen@helsinki.fi or send
 # Development
 
 Run `npm start` to start the development mode. The search is disabled during local development.
+
